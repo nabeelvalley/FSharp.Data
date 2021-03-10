@@ -35,7 +35,7 @@ present on the columns of that sample. The column names are obtained from the fi
     </div>
 </div>
 
-The type provider is located in the `FSharp.Data.dll` assembly. Assuming the package is referenged
+The type provider is located in the `FSharp.Data.dll` assembly. Assuming the package is referenced
 we can access its namespace as follows:
 *)
 
